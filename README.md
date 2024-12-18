@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I started coding as a hobby, creating small tools like form fillers and auto-clickers to automate tasks and make my work life easier. Over time, my interest in software development grew, and I began expanding my skills and taking on larger projects. This year, I developed CSR Bible, job manual web app that significantly improved efficiency and independence for my team at work. Seeing the positive impact my work had on others inspired me to pursue software engineering as a career. I’m now eager to contribute full-time, combining my problem-solving mindset with my growing technical expertise.
 <!--
 **odinhong/odinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
