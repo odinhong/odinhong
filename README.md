@@ -3,8 +3,8 @@ I began coding as a hobby, building small tools like form fillers and auto-click
 
 This year, I completed two major projects:
 
-Financials Scraper (Go): A tool that scrapes and parses financial statements to create comprehensive master financial reports for public companies, consolidating every line item across reporting periods.
-CSR Bible (React): A job manual web app that transformed workplace efficiency by enabling my team to work independently from day one and reduced reliance on senior staff for routine transaction guidance.
+- Financials Scraper (Go): A tool that scrapes and parses financial statements to create comprehensive master financial reports for public companies, consolidating every line item across reporting periods.
+- CSR Bible (React): A job manual web app that transformed workplace efficiency by enabling my team to work independently from day one and reduced reliance on senior staff for routine transaction guidance.
 Seeing the tangible impact of my work on others motivated me to pursue software engineering as a career. I’m excited to contribute full-time, leveraging my problem-solving mindset and technical skills to create innovative solutions.
 <!--
 **odinhong/odinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
