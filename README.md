@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 I began coding as a hobby, building small tools like form fillers and auto-clickers to automate repetitive tasks and improve efficiency in my daily work. As my interest in software development grew, I took on more ambitious projects to deepen my skills.
 
 This year, I completed two major projects:
